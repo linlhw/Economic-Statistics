@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>经统班蹭饭图</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/maps/china.js"></script>
+
+</head>
+<body>
+    <!--这里放音乐哦 -->		
+		<audio autoplay="autoplay">
+			<source src="iloveu.mp3" type="audio/mp3" />
+		Your browser does not support the audio element.
+		</audio>
